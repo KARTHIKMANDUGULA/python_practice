@@ -26,7 +26,7 @@ A structured repository tracking my daily Python programming practice, core logi
 ### 04-conditionals
 - [x] `find_largest_of_three.py` — Multi-branch decision logic
 - [x] `simple_calculator.py` — Operator-based conditional branching
-- [ ] `grade_calculator.py` — Range-based score grading
+- [x] `grade_calculator.py` — Range-based score grading
 - [ ] `temperature_converter.py` — Multi-unit scale conversion
 
 ### 05-collections
