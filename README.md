@@ -27,7 +27,7 @@ A structured repository tracking my daily Python programming practice, core logi
 - [x] `find_largest_of_three.py` — Multi-branch decision logic
 - [x] `simple_calculator.py` — Operator-based conditional branching
 - [x] `grade_calculator.py` — Range-based score grading
-- [ ] `temperature_converter.py` — Multi-unit scale conversion
+- [x] `temperature_converter.py` — Multi-unit scale conversion
 
 ### 05-collections
 - [ ] `sum_list_elements.py` — Dynamic list traversal
