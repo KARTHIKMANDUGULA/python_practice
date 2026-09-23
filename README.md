@@ -30,10 +30,10 @@ A structured repository tracking my daily Python programming practice, core logi
 - [x] `temperature_converter.py` — Multi-unit scale conversion
 
 ### 05-collections
-- [ ] `sum_list_elements.py` — Dynamic list traversal
-- [ ] `count_occurrences.py` — Frequency checking in lists
-- [ ] `max_min_finder.py` — Extreme value search without built-ins
-- [ ] `dictionary_operations.py` — Key-value data manipulation
+- [x] `sum_list_elements.py` — Dynamic list traversal
+- [x] `count_occurrences.py` — Frequency checking in lists
+- [x] `max_min_finder.py` — Extreme value search without built-ins
+- [x] `dictionary_operations.py` — Key-value data manipulation
 
 ### 06-file-io
 - [ ] `file_word_replace.py` — File streams and text replacement
