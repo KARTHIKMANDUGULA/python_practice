@@ -36,7 +36,9 @@ A structured repository tracking my daily Python programming practice, core logi
 - [x] `dictionary_operations.py` — Key-value data manipulation
 
 ### 06-file-io
-- [ ] `file_word_replace.py` — File streams and text replacement
+- [x] `file_word_replace.py` — File streams and text replacement
+- [x] `word_searching_in_file.py` — finding the word in a file
+
 
 ### 07-oop
 - [ ] `student_class_basics.py` — Class constructors and state
