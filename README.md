@@ -38,11 +38,13 @@ A structured repository tracking my daily Python programming practice, core logi
 ### 06-file-io
 - [x] `file_word_replace.py` — File streams and text replacement
 - [x] `word_searching_in_file.py` — finding the word in a file
+- [x] `length_of_even_file.py` — finding length of even numbers in the given data
+
 
 
 ### 07-oop
-- [ ] `student_class_basics.py` — Class constructors and state
-- [ ] `bank_account_system.py` — Encapsulation and transaction methods
+- [x] `student_class_basics.py` — Class constructors and state
+- [x] `bank_account_system.py` — Encapsulation and transaction methods
 
 ---
 
